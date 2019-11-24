@@ -1,0 +1,109 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-size: 15px;
+  font-family: cursive;
+  background-color: #e3e5e6;
+}
+
+header{
+  background-color: #242238;
+  color: #4abfeb;
+  margin-top: 5px;
+  /* padding-top: 40px; */
+  min-height: 70px;
+  margin-right: 5px;
+  margin-left: 5px;
+  /* margin: 5px 5px 5px; */
+}
+
+header .logo{
+  float: left;
+  margin-top: 5px;
+  padding-top: 10px;
+  margin-left: 15px;
+}
+
+header h1{
+  margin: 0px;
+}
+
+header nav{
+  float: right;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+header ul{
+     margin: 0px;
+     padding: 0px;
+ }
+
+header li{
+  float: left;
+  display: inline;
+  padding: 0px 20px 0px 20px;
+}
+
+header a{
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+  color: #4abfeb;
+}
+
+header a:hover{
+    color: white;
+ }
+
+section .container{
+  margin: 0px;
+  padding: 0px;
+}
+
+section .container .box{
+  width:500px;
+	height:600px;
+	background: white;
+  margin: auto;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #242238;
+  color: #4abfeb;
+  margin: 0px 5px 5px 5px;
+  padding: 0px;
+}
+
+footer .logo2{
+  margin-left: 625px;
+}
+
+footer li{
+  display: inline;
+}
+
+footer .icon{
+  margin: 0px;
+  padding: 0px;
+}
+
+footer ul{
+  /* margin: auto; */
+}
+
+.icon ul{
+  margin-left: 520px ;
+}
+
+.icon ul li a img{
+  height: 2%;
+  width: 2%;
+  margin: 0px 20px 0px 20px;
+}
+
+footer a:hover{
+    color: #4abfeb;
+ }
